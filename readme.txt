@@ -15,7 +15,7 @@ Let Rainbow Status help you visually manage your WordPress publishing.Install Ra
 
 
 Follow the developer on [Twitter](https://twitter.com/twitabhisek)
-Visit Developer Website [Increasy](http://increasy.com)
+Visit [Developer Website](http://increasy.com)
 
 
 ==Installation== 
