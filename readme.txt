@@ -2,7 +2,7 @@
 Contributors: meabhisek
 Tags:   admin, dashboard, status, post, page, color, draft, pending, published, scheduled
 Requires at least: 3.0
-Tested up to: 4.0
+Tested up to: 4.1
 Stable tag: trunk
 License: GPLv2
 
