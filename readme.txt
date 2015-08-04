@@ -35,3 +35,10 @@ Visit [Developer Website](http://increasy.com)
 3. Check out the Rainbow.
 
 If you are new to WordPress : [Installing Plugins](http://codex.wordpress.org/Managing_Plugins#Installing_Plugins)
+
+== Changelog ==
+
+= 1.0.1 =
+
+* A small tweak
+* Tested with WordPress 4.2.4

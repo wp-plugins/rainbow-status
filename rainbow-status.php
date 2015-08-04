@@ -33,7 +33,7 @@ echo "
 	.status-draft{background: #E1BCF0 !important;}
     .status-pending{background: #B8EEAD !important;}
     .status-future{background: #BAF0FF !important;}
-    .status-private{background: #FCF0B1;}
+    .status-private{background: #FCF0B1 !important;}
 	}
 	</style>
 	";
