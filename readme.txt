@@ -2,8 +2,8 @@
 Contributors: meabhisek
 Tags:   admin, dashboard, status, post, page, color, draft, pending, published, scheduled
 Requires at least: 3.0
-Tested up to: 4.1
-Stable tag: trunk
+Tested up to: 4.2.4
+Stable tag: 1.0.1
 License: GPLv2
 
 Different background colors for Draft, Pending, Published, Scheduled and Private posts/pages.
@@ -35,3 +35,10 @@ Visit [Developer Website](http://increasy.com)
 3. Check out the Rainbow.
 
 If you are new to WordPress : [Installing Plugins](http://codex.wordpress.org/Managing_Plugins#Installing_Plugins)
+
+== Changelog ==
+
+= 1.0.1 =
+
+* A small tweak
+* Tested with WordPress 4.2.4

@@ -2,7 +2,7 @@
 
 /*
 Plugin Name: Rainbow Status
-Version: 1.0
+Version: 1.0.1
 Description: Get different colors for posts/pages based on their current status (Draft, Pending, Published, Scheduled and Private).
 Author: Kumar Abhisek
 Author URI: http://increasy.com/
@@ -33,7 +33,7 @@ echo "
 	.status-draft{background: #E1BCF0 !important;}
     .status-pending{background: #B8EEAD !important;}
     .status-future{background: #BAF0FF !important;}
-    .status-private{background: #FCF0B1;}
+    .status-private{background: #FCF0B1 !important;}
 	}
 	</style>
 	";
