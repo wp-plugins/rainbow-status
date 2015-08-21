@@ -19,11 +19,11 @@ Visit [Developer Website](http://increasy.com)
 
 **Download My Other Plugins**
 
-[Mini Membership](https://wordpress.org/plugins/mini-membership/)
-[Private Content Login Redirect](https://wordpress.org/plugins/private-content-login-redirect/)
-[Romance Admin Color Scheme](https://wordpress.org/plugins/romance-admin-color-scheme/)
-[Frame Breaker](https://wordpress.org/plugins/frame-breaker/)
-[Inspire Dolly](https://wordpress.org/plugins/inspire-dolly/)
+* [Mini Membership](https://wordpress.org/plugins/mini-membership/)
+* [Private Content Login Redirect](https://wordpress.org/plugins/private-content-login-redirect/)
+* [Romance Admin Color Scheme](https://wordpress.org/plugins/romance-admin-color-scheme/)
+* [Frame Breaker](https://wordpress.org/plugins/frame-breaker/)
+* [Inspire Dolly](https://wordpress.org/plugins/inspire-dolly/)
 
 
 ==Installation== 
